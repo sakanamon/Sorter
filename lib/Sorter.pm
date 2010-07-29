@@ -47,6 +47,4 @@ sub qsort {
         qsort($array, $i, $right);
     }
 }
-
-
 1;
